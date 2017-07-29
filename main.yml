@@ -1,0 +1,4 @@
+#!/usr/bin/env ansible-playbook -i hosts
+- hosts: master
+  tasks:
+    - include: 'tasks/main.yml'
