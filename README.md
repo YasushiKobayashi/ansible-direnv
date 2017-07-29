@@ -1,9 +1,10 @@
 [![Build Status](https://travis-ci.org/YasushiKobayashi/ansible-direnv.svg?branch=master)](https://travis-ci.org/YasushiKobayashi/ansible-direnv)
+[![Run Status](https://api.shippable.com/projects/597c960aa6be8d0700eeef94/badge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/ansible-direnv)
+[![Coverage Badge](https://api.shippable.com/projects/597c960aa6be8d0700eeef94/coverageBadge?branch=master)](https://app.shippable.com/github/YasushiKobayashi/ansible-direnv)
 
 
 ### install dirnev
-C
-`ansible-galaxy install YasushiKobayashi.ansible-direnv`
+`ansible-galaxy install YasushiKobayashi.direnv`
 
 ### ansible role initial setting
 - cenos6
